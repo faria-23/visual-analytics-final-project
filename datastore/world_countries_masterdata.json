@@ -1,0 +1,341 @@
+{
+  "countries": {
+    "DE": {
+      "fullName": "Germany",
+      "continent": "Europe",
+      "region": "Western Europe",
+      "coordinates": {"lat": 51.1657, "lng": 10.4515},
+      "timezone": "CET",
+      "culturalTags": ["Germanic", "Industrial", "Historic"],
+      "geographicFeatures": ["Coastal", "Plains", "Mountains"],
+      "neighbors": ["FR", "NL", "AT", "PL", "CZ", "CH", "DK"]
+    },
+    "FR": {
+      "fullName": "France",
+      "continent": "Europe", 
+      "region": "Western Europe",
+      "coordinates": {"lat": 46.6034, "lng": 1.8883},
+      "timezone": "CET",
+      "culturalTags": ["Romance", "Historic", "Culinary"],
+      "geographicFeatures": ["Coastal", "Mountains", "Plains"],
+      "neighbors": ["DE", "ES", "IT", "CH", "BE", "LU"]
+    },
+    "IT": {
+      "fullName": "Italy",
+      "continent": "Europe",
+      "region": "Southern Europe", 
+      "coordinates": {"lat": 41.8719, "lng": 12.5674},
+      "timezone": "CET",
+      "culturalTags": ["Romance", "Historic", "Mediterranean"],
+      "geographicFeatures": ["Coastal", "Mountains", "Islands"],
+      "neighbors": ["FR", "CH", "AT", "SI", "HR"]
+    },
+    "ES": {
+      "fullName": "Spain",
+      "continent": "Europe",
+      "region": "Southern Europe",
+      "coordinates": {"lat": 40.4637, "lng": -3.7492},
+      "timezone": "CET", 
+      "culturalTags": ["Iberian", "Historic", "Mediterranean"],
+      "geographicFeatures": ["Coastal", "Mountains", "Plains"],
+      "neighbors": ["FR", "PT"]
+    },
+    "GB": {
+      "fullName": "United Kingdom",
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "coordinates": {"lat": 55.3781, "lng": -3.436},
+      "timezone": "GMT",
+      "culturalTags": ["Anglo-Saxon", "Maritime", "Historic"],
+      "geographicFeatures": ["Islands", "Coastal"],
+      "neighbors": ["IE"]
+    },
+    "NL": {
+      "fullName": "Netherlands",
+      "continent": "Europe",
+      "region": "Western Europe", 
+      "coordinates": {"lat": 52.1326, "lng": 5.2913},
+      "timezone": "CET",
+      "culturalTags": ["Germanic", "Maritime", "Trade"],
+      "geographicFeatures": ["Coastal", "Plains"],
+      "neighbors": ["DE", "BE"]
+    },
+    "CH": {
+      "fullName": "Switzerland",
+      "continent": "Europe",
+      "region": "Western Europe",
+      "coordinates": {"lat": 46.8182, "lng": 8.2275},
+      "timezone": "CET",
+      "culturalTags": ["Alpine", "Financial", "Neutral"],
+      "geographicFeatures": ["Mountains", "Lakes"],
+      "neighbors": ["DE", "FR", "IT", "AT", "LI"]
+    },
+    "AT": {
+      "fullName": "Austria",
+      "continent": "Europe",
+      "region": "Central Europe",
+      "coordinates": {"lat": 47.5162, "lng": 14.5501},
+      "timezone": "CET",
+      "culturalTags": ["Germanic", "Alpine", "Historic"],
+      "geographicFeatures": ["Mountains", "Lakes"],
+      "neighbors": ["DE", "CH", "IT", "SI", "HU", "SK", "CZ"]
+    },
+    "BE": {
+      "fullName": "Belgium",
+      "continent": "Europe",
+      "region": "Western Europe",
+      "coordinates": {"lat": 50.5039, "lng": 4.4699},
+      "timezone": "CET",
+      "culturalTags": ["Germanic", "Romance", "Trade"],
+      "geographicFeatures": ["Coastal", "Plains"],
+      "neighbors": ["NL", "DE", "LU", "FR"]
+    },
+    "DK": {
+      "fullName": "Denmark",
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "coordinates": {"lat": 56.2639, "lng": 9.5018},
+      "timezone": "CET",
+      "culturalTags": ["Nordic", "Maritime", "Design"],
+      "geographicFeatures": ["Islands", "Coastal", "Peninsula"],
+      "neighbors": ["DE"]
+    },
+    "SE": {
+      "fullName": "Sweden",
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "coordinates": {"lat": 60.1282, "lng": 18.6435},
+      "timezone": "CET",
+      "culturalTags": ["Nordic", "Forest", "Design"],
+      "geographicFeatures": ["Coastal", "Forest", "Lakes"],
+      "neighbors": ["NO", "FI"]
+    },
+    "NO": {
+      "fullName": "Norway",
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "coordinates": {"lat": 60.472, "lng": 8.4689},
+      "timezone": "CET",
+      "culturalTags": ["Nordic", "Maritime", "Fjords"],
+      "geographicFeatures": ["Coastal", "Mountains", "Fjords"],
+      "neighbors": ["SE", "FI", "RU"]
+    },
+    "FI": {
+      "fullName": "Finland",
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "coordinates": {"lat": 61.9241, "lng": 25.7482},
+      "timezone": "EET",
+      "culturalTags": ["Nordic", "Forest", "Lakes"],
+      "geographicFeatures": ["Forest", "Lakes"],
+      "neighbors": ["SE", "NO", "RU"]
+    },
+    "US": {
+      "fullName": "United States of America",
+      "continent": "North America",
+      "region": "North America",
+      "coordinates": {"lat": 37.0902, "lng": -95.7129},
+      "timezone": "EST/PST/MST/CST",
+      "culturalTags": ["Diverse", "Modern", "Industrial"],
+      "geographicFeatures": ["Coastal", "Plains", "Mountains", "Desert"],
+      "neighbors": ["CA", "MX"]
+    },
+    "CA": {
+      "fullName": "Canada",
+      "continent": "North America",
+      "region": "North America", 
+      "coordinates": {"lat": 56.1304, "lng": -106.3468},
+      "timezone": "EST/PST/MST/CST",
+      "culturalTags": ["Diverse", "Northern", "Natural"],
+      "geographicFeatures": ["Forest", "Lakes", "Mountains", "Arctic"],
+      "neighbors": ["US"]
+    },
+    "MX": {
+      "fullName": "Mexico",
+      "continent": "North America",
+      "region": "North America",
+      "coordinates": {"lat": 23.6345, "lng": -102.5528},
+      "timezone": "CST/MST/PST",
+      "culturalTags": ["Latin", "Historic", "Coastal"],
+      "geographicFeatures": ["Coastal", "Mountains", "Desert"],
+      "neighbors": ["US"]
+    },
+    "BR": {
+      "fullName": "Brazil",
+      "continent": "South America",
+      "region": "South America",
+      "coordinates": {"lat": -14.235, "lng": -51.9253},
+      "timezone": "BRT",
+      "culturalTags": ["Latin", "Tropical", "Diverse"],
+      "geographicFeatures": ["Rainforest", "Coastal", "Plains"],
+      "neighbors": ["AR", "PE", "CO", "VE", "GY", "SR", "UY", "PY", "BO"]
+    },
+    "AR": {
+      "fullName": "Argentina",
+      "continent": "South America",
+      "region": "South America",
+      "coordinates": {"lat": -38.4161, "lng": -63.6167},
+      "timezone": "ART",
+      "culturalTags": ["Latin", "European", "Tango"],
+      "geographicFeatures": ["Plains", "Mountains", "Coastal"],
+      "neighbors": ["BR", "UY", "PY", "BO", "CL"]
+    },
+    "PE": {
+      "fullName": "Peru",
+      "continent": "South America",
+      "region": "South America",
+      "coordinates": {"lat": -9.19, "lng": -75.0152},
+      "timezone": "PET",
+      "culturalTags": ["Andean", "Indigenous", "Historic"],
+      "geographicFeatures": ["Mountains", "Coastal", "Rainforest"],
+      "neighbors": ["EC", "CO", "BR", "BO", "CL"]
+    },
+    "CN": {
+      "fullName": "China",
+      "continent": "Asia",
+      "region": "East Asia",
+      "coordinates": {"lat": 35.8617, "lng": 104.1954},
+      "timezone": "CST",
+      "culturalTags": ["Chinese", "Ancient", "Modern"],
+      "geographicFeatures": ["Mountains", "Plains", "Coastal", "Desert"],
+      "neighbors": ["IN", "PK", "AF", "TJ", "KG", "KZ", "RU", "MN", "KP", "VN", "LA", "MM", "BT", "NP"]
+    },
+    "JP": {
+      "fullName": "Japan", 
+      "continent": "Asia",
+      "region": "East Asia",
+      "coordinates": {"lat": 36.2048, "lng": 138.2529},
+      "timezone": "JST",
+      "culturalTags": ["Japanese", "Island", "Modern"],
+      "geographicFeatures": ["Islands", "Mountains", "Coastal"],
+      "neighbors": []
+    },
+    "IN": {
+      "fullName": "India",
+      "continent": "Asia",
+      "region": "South Asia",
+      "coordinates": {"lat": 20.5937, "lng": 78.9629},
+      "timezone": "IST",
+      "culturalTags": ["Diverse", "Ancient", "Colorful"],
+      "geographicFeatures": ["Plains", "Mountains", "Coastal", "Desert"],
+      "neighbors": ["PK", "CN", "NP", "BT", "BD", "MM"]
+    },
+    "TH": {
+      "fullName": "Thailand",
+      "continent": "Asia",
+      "region": "Southeast Asia",
+      "coordinates": {"lat": 15.87, "lng": 100.9925},
+      "timezone": "ICT",
+      "culturalTags": ["Buddhist", "Tropical", "Kingdom"],
+      "geographicFeatures": ["Coastal", "Mountains", "Tropical"],
+      "neighbors": ["MM", "LA", "KH", "MY"]
+    },
+    "TR": {
+      "fullName": "Turkey",
+      "continent": "Asia",
+      "region": "Western Asia",
+      "coordinates": {"lat": 38.9637, "lng": 35.2433},
+      "timezone": "TRT", 
+      "culturalTags": ["Bridge", "Historic", "Mediterranean"],
+      "geographicFeatures": ["Coastal", "Mountains", "Plains"],
+      "neighbors": ["GR", "BG", "GE", "AM", "AZ", "IR", "IQ", "SY"]
+    },
+    "EG": {
+      "fullName": "Egypt",
+      "continent": "Africa",
+      "region": "North Africa",
+      "coordinates": {"lat": 26.0975, "lng": 31.1097},
+      "timezone": "EET",
+      "culturalTags": ["Ancient", "Desert", "Nile"],
+      "geographicFeatures": ["Desert", "River", "Coastal"],
+      "neighbors": ["LY", "SD", "IL", "PS"]
+    },
+    "ZA": {
+      "fullName": "South Africa",
+      "continent": "Africa",
+      "region": "Southern Africa",
+      "coordinates": {"lat": -30.5595, "lng": 22.9375},
+      "timezone": "SAST",
+      "culturalTags": ["Diverse", "Mining", "Wildlife"],
+      "geographicFeatures": ["Coastal", "Plains", "Mountains"],
+      "neighbors": ["NA", "BW", "ZW", "MZ", "SZ", "LS"]
+    },
+    "NG": {
+      "fullName": "Nigeria",
+      "continent": "Africa",
+      "region": "West Africa",
+      "coordinates": {"lat": 9.082, "lng": 8.6753},
+      "timezone": "WAT",
+      "culturalTags": ["Diverse", "Oil", "Populous"],
+      "geographicFeatures": ["Coastal", "Plains", "River"],
+      "neighbors": ["BJ", "NE", "TD", "CM"]
+    },
+    "MA": {
+      "fullName": "Morocco",
+      "continent": "Africa",
+      "region": "North Africa",
+      "coordinates": {"lat": 31.7917, "lng": -7.0926},
+      "timezone": "WET",
+      "culturalTags": ["Berber", "Arab", "Atlantic"],
+      "geographicFeatures": ["Mountains", "Coastal", "Desert"],
+      "neighbors": ["DZ", "EH"]
+    },
+    "AU": {
+      "fullName": "Australia",
+      "continent": "Oceania",
+      "region": "Oceania",
+      "coordinates": {"lat": -25.2744, "lng": 133.7751},
+      "timezone": "AEST/AWST/ACST",
+      "culturalTags": ["Island", "Outback", "Modern"],
+      "geographicFeatures": ["Island", "Desert", "Coastal"],
+      "neighbors": []
+    },
+    "NZ": {
+      "fullName": "New Zealand",
+      "continent": "Oceania",
+      "region": "Oceania",
+      "coordinates": {"lat": -40.9006, "lng": 174.886},
+      "timezone": "NZST",
+      "culturalTags": ["Island", "Natural", "Maori"],
+      "geographicFeatures": ["Islands", "Mountains", "Coastal"],
+      "neighbors": []
+    }
+  },
+  "continents": {
+    "Europe": {
+      "color": "#4A90E2",
+      "countries": ["DE", "FR", "IT", "ES", "GB", "NL", "CH", "AT", "BE", "DK", "SE", "NO", "FI"],
+      "culturalCharacteristics": ["Historic", "Diverse", "Modern"]
+    },
+    "Asia": {
+      "color": "#9013FE", 
+      "countries": ["CN", "JP", "IN", "TH", "TR"],
+      "culturalCharacteristics": ["Ancient", "Diverse", "Spiritual"]
+    },
+    "North America": {
+      "color": "#D0021B",
+      "countries": ["US", "CA", "MX"],
+      "culturalCharacteristics": ["Modern", "Diverse", "Industrial"]
+    },
+    "South America": {
+      "color": "#7ED321",
+      "countries": ["BR", "AR", "PE"],
+      "culturalCharacteristics": ["Latin", "Natural", "Colorful"]
+    },
+    "Africa": {
+      "color": "#F5A623",
+      "countries": ["EG", "ZA", "NG", "MA"],
+      "culturalCharacteristics": ["Ancient", "Diverse", "Natural"]
+    },
+    "Oceania": {
+      "color": "#92400E",
+      "countries": ["AU", "NZ"],
+      "culturalCharacteristics": ["Island", "Natural", "Indigenous"]
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "totalCountries": 29,
+    "lastUpdated": "2024-01-15"
+  }
+}

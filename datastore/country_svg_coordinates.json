@@ -1,0 +1,216 @@
+{
+  "mapProjection": {
+    "type": "naturalEarth",
+    "viewBox": "0 0 900 700",
+    "scale": 1.0,
+    "center": [450, 350]
+  },
+  "countryPositions": {
+    "DE": {
+      "x": 540,
+      "y": 280,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "FR": {
+      "x": 520,
+      "y": 300,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "IT": {
+      "x": 560,
+      "y": 340,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "ES": {
+      "x": 480,
+      "y": 340,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "GB": {
+      "x": 490,
+      "y": 240,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "NL": {
+      "x": 530,
+      "y": 260,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 6
+    },
+    "CH": {
+      "x": 540,
+      "y": 310,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 5
+    },
+    "AT": {
+      "x": 560,
+      "y": 300,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 6
+    },
+    "BE": {
+      "x": 520,
+      "y": 270,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 5
+    },
+    "DK": {
+      "x": 540,
+      "y": 230,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 6
+    },
+    "SE": {
+      "x": 570,
+      "y": 180,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "NO": {
+      "x": 540,
+      "y": 160,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "FI": {
+      "x": 590,
+      "y": 160,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "US": {
+      "x": 220,
+      "y": 300,
+      "labelOffset": {"x": 0, "y": -8},
+      "circleRadius": 12
+    },
+    "CA": {
+      "x": 220,
+      "y": 200,
+      "labelOffset": {"x": 0, "y": -8},
+      "circleRadius": 12
+    },
+    "MX": {
+      "x": 220,
+      "y": 380,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "BR": {
+      "x": 320,
+      "y": 480,
+      "labelOffset": {"x": 0, "y": -8},
+      "circleRadius": 10
+    },
+    "AR": {
+      "x": 300,
+      "y": 580,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "PE": {
+      "x": 280,
+      "y": 450,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "CN": {
+      "x": 720,
+      "y": 320,
+      "labelOffset": {"x": 0, "y": -8},
+      "circleRadius": 12
+    },
+    "JP": {
+      "x": 800,
+      "y": 320,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "IN": {
+      "x": 680,
+      "y": 380,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 10
+    },
+    "TH": {
+      "x": 720,
+      "y": 420,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 6
+    },
+    "TR": {
+      "x": 600,
+      "y": 330,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "EG": {
+      "x": 590,
+      "y": 380,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "ZA": {
+      "x": 580,
+      "y": 580,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "NG": {
+      "x": 540,
+      "y": 440,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 8
+    },
+    "MA": {
+      "x": 480,
+      "y": 380,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 7
+    },
+    "AU": {
+      "x": 780,
+      "y": 580,
+      "labelOffset": {"x": 0, "y": -8},
+      "circleRadius": 10
+    },
+    "NZ": {
+      "x": 840,
+      "y": 620,
+      "labelOffset": {"x": 0, "y": -5},
+      "circleRadius": 6
+    }
+  },
+  "continentRegions": {
+    "Europe": {
+      "boundingBox": {"x": 470, "y": 150, "width": 150, "height": 200},
+      "labelPosition": {"x": 545, "y": 200}
+    },
+    "Asia": {
+      "boundingBox": {"x": 600, "y": 150, "width": 250, "height": 300},
+      "labelPosition": {"x": 725, "y": 250}
+    },
+    "North America": {
+      "boundingBox": {"x": 150, "y": 150, "width": 150, "height": 280},
+      "labelPosition": {"x": 225, "y": 220}
+    },
+    "South America": {
+      "boundingBox": {"x": 250, "y": 400, "width": 100, "height": 220},
+      "labelPosition": {"x": 300, "y": 520}
+    },
+    "Africa": {
+      "boundingBox": {"x": 480, "y": 350, "width": 150, "height": 280},
+      "labelPosition": {"x": 555, "y": 480}
+    },
+    "Oceania": {
+      "boundingBox": {"x": 750, "y": 550, "width": 120, "height": 100},
+      "labelPosition": {"x": 810, "y": 590}
+    }
+  }
+}

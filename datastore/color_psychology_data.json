@@ -1,0 +1,746 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "totalColors": 11,
+    "culturalContexts": ["universal", "english", "chinese"],
+    "lastUpdated": "2025-01-15",
+    "description": "Color psychology associations for universal, English, and Chinese cultural contexts",
+    "dataSource": "Color Psychology Research Summary"
+  },
+  "colorPsychology": {
+    "white": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "black": {
+      "universal": ["Darkness", "Death", "Fear"],
+      "english": ["Fear", "Death"],
+      "chinese": ["Unfaithfulness"]
+    },
+    "red": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "blue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "green": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "yellow": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "orange": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "purple": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "pink": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "gray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "brown": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "steelblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "navy": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "aqua": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "teal": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "lime": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "maroon": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "olive": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "cyan": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "magenta": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "fuchsia": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "gold": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "silver": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "indigo": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "violet": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "orchid": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "turquoise": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "tan": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "beige": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "coral": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "salmon": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "khaki": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "lavender": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "plum": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "crimson": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "chartreuse": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "azure": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "mint": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "peach": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "rose": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "apricot": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "amber": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "ivory": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "charcoal": {
+      "universal": ["Darkness", "Death", "Fear"],
+      "english": ["Fear", "Death"],
+      "chinese": ["Unfaithfulness"]
+    },
+    "slategray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "lightgray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "darkgray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "midnightblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "forestgreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "seagreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "springgreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "royalblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "dodgerblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "skyblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "lightblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "firebrick": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "sienna": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "peru": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "goldenrod": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "wheat": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "moccasin": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "linen": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "oldlace": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "gainsboro": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "snow": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "mintcream": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "aliceblue": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "honeydew": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "ghostwhite": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "floralwhite": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "seashell": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "lemonchiffon": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "lightyellow": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "papayawhip": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "blanchedalmond": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "bisque": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "peachpuff": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "navajowhite": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "antiquewhite": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "aquamarine": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "blueviolet": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "burlywood": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "cadetblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "cornflowerblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "cornsilk": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "darkblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "darkcyan": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "darkgoldenrod": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "darkmagenta": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "darkolivegreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "darkorange": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "darkorchid": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "darkred": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "darksalmon": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "darkseagreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "darkslateblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "darkslategray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "darkturquoise": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "darkviolet": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "deeppink": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "deepskyblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "dimgray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "lightcoral": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "lightcyan": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "lightgoldenrodyellow": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "lightgreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "lightpink": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "lightsalmon": {
+      "universal": ["Energy", "Warmth", "Enthusiasm"],
+      "english": ["Creativity", "Adventure", "Confidence"],
+      "chinese": ["Change", "Movement", "Spontaneity"]
+    },
+    "lightseagreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "lightskyblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "lightslategray": {
+      "universal": ["Neutrality", "Balance", "Sophistication"],
+      "english": ["Conservatism", "Formality"],
+      "chinese": ["Modest", "Humble", "Unassuming"]
+    },
+    "lightsteelblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "mistyrose": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "palegoldenrod": {
+      "universal": ["Sunshine", "Happiness", "Energy"],
+      "english": ["Cheerfulness", "Optimism"],
+      "chinese": ["Imperial", "Honor", "Prosperity"]
+    },
+    "palegreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    },
+    "paleturquoise": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "palevioletred": {
+      "universal": ["Femininity", "Romance", "Sweetness"],
+      "english": ["Love", "Compassion", "Nurturing"],
+      "chinese": ["Marriage", "Love"]
+    },
+    "powderblue": {
+      "universal": ["Sky", "Water", "Calmness", "Passivity"],
+      "english": ["Passivity", "Openness"],
+      "chinese": ["Cleanliness", "Freshness"]
+    },
+    "rebeccapurple": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "rosybrown": {
+      "universal": ["Earth", "Stability", "Natural"],
+      "english": ["Reliability", "Comfort", "Security"],
+      "chinese": ["Stability", "Tradition", "Groundedness"]
+    },
+    "thistle": {
+      "universal": ["Royalty", "Luxury", "Mystery"],
+      "english": ["Nobility", "Spirituality", "Creativity"],
+      "chinese": ["Divinity", "Immortality"]
+    },
+    "tomato": {
+      "universal": ["Aggression", "Attention", "Love"],
+      "english": ["Attraction", "Anger", "Danger"],
+      "chinese": ["Luck", "Prosperity", "Enthusiasm"]
+    },
+    "whitesmoke": {
+      "universal": ["Purity", "Cleanliness"],
+      "english": ["Innocence", "Cleanliness"],
+      "chinese": ["Understanding", "Brightness"]
+    },
+    "yellowgreen": {
+      "universal": ["Health", "Nature", "Freshness"],
+      "english": ["Nature", "Environment"],
+      "chinese": ["Growth", "Freshness"]
+    }
+  },
+  "colorMapping": {
+    "white": {
+      "hue": [0, 360],
+      "saturation": [0, 0.1],
+      "value": [0.9, 1.0],
+      "description": "Very high value, very low saturation"
+    },
+    "black": {
+      "hue": [0, 360],
+      "saturation": [0, 0.2],
+      "value": [0, 0.15],
+      "description": "Very low value, very low saturation"
+    },
+    "red": {
+      "hue": [350, 360, 0, 10],
+      "saturation": [0.5, 1.0],
+      "value": [0.3, 1.0],
+      "description": "Red hues with medium to high saturation"
+    },
+    "blue": {
+      "hue": [190, 260],
+      "saturation": [0.3, 1.0],
+      "value": [0.2, 1.0],
+      "description": "Blue hues including teal/cyan and excluding navy"
+    },
+    "green": {
+      "hue": [90, 150],
+      "saturation": [0.3, 1.0],
+      "value": [0.2, 1.0],
+      "description": "Green hues excluding yellow-green"
+    },
+    "yellow": {
+      "hue": [45, 70],
+      "saturation": [0.5, 1.0],
+      "value": [0.7, 1.0],
+      "description": "Yellow hues with high brightness"
+    },
+    "orange": {
+      "hue": [15, 45],
+      "saturation": [0.5, 1.0],
+      "value": [0.5, 1.0],
+      "description": "Orange hues between red and yellow"
+    },
+    "purple": {
+      "hue": [270, 320],
+      "saturation": [0.3, 1.0],
+      "value": [0.3, 1.0],
+      "description": "Purple and violet hues"
+    },
+    "pink": {
+      "hue": [320, 350],
+      "saturation": [0.2, 0.8],
+      "value": [0.7, 1.0],
+      "description": "Light red with reduced saturation"
+    },
+    "gray": {
+      "hue": [0, 360],
+      "saturation": [0, 0.15],
+      "value": [0.2, 0.8],
+      "description": "Very low saturation, medium value"
+    },
+    "brown": {
+      "hue": [20, 40],
+      "saturation": [0.3, 1.0],
+      "value": [0.2, 0.7],
+      "description": "Orange/red hues with low to medium value"
+    }
+  },
+  "culturalContexts": {
+    "universal": {
+      "name": "Universal",
+      "description": "Cross-cultural color associations found across many societies",
+      "code": "universal"
+    },
+    "english": {
+      "name": "English/Western",
+      "description": "Color associations common in English-speaking and Western cultures",
+      "code": "english"
+    },
+    "chinese": {
+      "name": "Chinese",
+      "description": "Color associations specific to Chinese culture and traditions",
+      "code": "chinese"
+    }
+  },
+  "psychologyCategories": {
+    "emotional": ["Happiness", "Anger", "Fear", "Love", "Enthusiasm", "Calmness"],
+    "behavioral": ["Aggression", "Passivity", "Energy", "Attention", "Confidence"],
+    "social": ["Royalty", "Nobility", "Imperial", "Marriage", "Divinity"],
+    "natural": ["Nature", "Earth", "Sky", "Water", "Sunshine", "Health"],
+    "conceptual": ["Purity", "Death", "Mystery", "Balance", "Stability", "Change"]
+  },
+  "colorFamilies": {
+    "warm": ["red", "orange", "yellow", "pink", "brown"],
+    "cool": ["blue", "green", "purple"],
+    "neutral": ["white", "black", "gray"],
+    "earth": ["brown", "green"],
+    "vibrant": ["red", "orange", "yellow"],
+    "pastel": ["pink"],
+    "monochrome": ["white", "black", "gray"]
+  },
+  "psychologyWeights": {
+    "universal": 1.0,
+    "english": 0.8,
+    "chinese": 0.8
+  },
+  "config": {
+    "defaultCulturalContext": "universal",
+    "colorMatchingTolerance": 15,
+    "minimumSaturationForColorDetection": 0.2,
+    "minimumValueForColorDetection": 0.1,
+    "enableCulturalBlending": true,
+    "psychologyInfluenceWeight": 0.3
+  }
+}
