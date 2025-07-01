@@ -1,0 +1,13 @@
+diff --git a/.gitignore b/.gitignore
+index 6402dcd..8a4d909 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -51,7 +51,7 @@ dmypy.json
+ *.log
+ 
+ # Data
+-data/
++#data/
+ 
+ # Secret files (adjust with caution)
+ .env

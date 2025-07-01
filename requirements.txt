@@ -1,0 +1,31 @@
+# fastapi>=0.100.0
+# uvicorn[standard]>=0.20.0
+# Pillow>=9.0.0
+# scikit-learn>=1.0.0
+# numpy>=1.20.0
+# minisom>=2.2.0
+# python-multipart>=0.0.5
+
+# Core FastAPI and web framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Image processing (Python 3.12 compatible versions)
+Pillow>=10.0.1
+numpy>=1.26.0  # Python 3.12 compatible version
+
+# Machine learning and clustering (Python 3.12 compatible)
+scikit-learn>=1.3.0
+minisom>=2.3.1
+
+# Additional scientific computing (Python 3.12 compatible)
+scipy>=1.11.4
+
+# For better color space conversions (optional but recommended)
+# scikit-image>=0.22.0  # Uncomment if you want more robust color space conversions
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.0.0
